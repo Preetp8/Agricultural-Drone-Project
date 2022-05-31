@@ -19,7 +19,6 @@ In this project, we have decided to use Intellij as our main IDE and we highly r
 2. Navigate to the top right hand corner of the IDE and you'll find a play button, press this and this should run the project
 3. Enjoy!
 
-Hyperlink to repo: https://gitlab.com/clint93/cs420_project/
 
 
 
