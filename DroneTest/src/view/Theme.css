@@ -1,0 +1,12 @@
+.overview{
+    -fx-font-family: Helvetica;
+    -fx-font-size: 12px;
+}
+
+.background{
+    -fx-background-color: lightgreen;
+    /*-fx-background-image: url(/assets/bg2.png);*/
+    /*-fx-opacity: 50%;*/
+
+}
+
