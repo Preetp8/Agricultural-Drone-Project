@@ -20,7 +20,7 @@ In this project, we have decided to use Intellij as our main IDE and we highly r
 3. Enjoy!
 
 Hyperlink to repo: https://gitlab.com/clint93/cs420_project/
-```
+
 
 
 
